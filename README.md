@@ -22,4 +22,4 @@ A simple Discord bot with basic commands.
    ```
 
 ## Environment Variables
-- `DISCORD_TOKEN`: Your Discord bot token from the Discord Developer Portal 
+- `DISCORD_TOKEN`: MTAwNzczOTEwNjQ2NzUxMjQ1Mg.Gzte7W.EUlz9sng7TVNru17NcF77TQ5GkB2VbmxAx5NRM 
